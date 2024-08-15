@@ -1,10 +1,3 @@
-- 👋 Hi, I’m Abdullah Imran Gill
-- 👀 I’m interested in Computer Sciences ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on learning coding(C++ OR Python or Jawa) ...
-- 📫 You Can Reach Me By My Email (abdullahimran166@gmail.com) ...
-
-<!---
-abdullahgill36/abdullahgill36 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a full-stack Web developer with a strong grip on THE latest coding languages including HTML5 ,
+TailwindCSS, Bootstrap jQuery, Django. I've built many websites in the past and would devotedly
+provide you with an opportunity to get responsive websites of your demand.
